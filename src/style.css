@@ -1,0 +1,25 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* #life{
+    width:70vw;
+    height:80vh;
+    background-color: black;
+} */
+
+P {
+  text-decoration: underline;
+}
+
+button {
+  margin-top: 0.5rem;
+}
